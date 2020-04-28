@@ -19,7 +19,7 @@ You can find link of each API in Swagger documentation. - http://localhost:8080/
 
 How to run the project:
 
-Clone the project to your intelli-j using git clone https://github.com/YogeshScrapy/grofersTest
+Clone the project to your intelli-j using git clone https://github.com/YogeshScrapy/generic-automation-Kubric-api-test.git
 After you clone the project import the project in to your ide and wait for the dependency to be downloaded.
 To run the project (mvn clean install) once it is done run SpringStarterApplication class in the project. once it is done hit the API one by one
    1. Create a user.
