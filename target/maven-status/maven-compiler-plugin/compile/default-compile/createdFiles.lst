@@ -1,0 +1,10 @@
+com/groferstest/webservice/SpringStarterApplication.class
+com/groferstest/webservice/filtering/FilteringController.class
+com/groferstest/webservice/user/UserResource.class
+com/groferstest/webservice/SwaggerConfig.class
+com/groferstest/webservice/exception/CustomisedResponse.class
+com/groferstest/webservice/filtering/Somebean.class
+com/groferstest/webservice/user/User.class
+com/groferstest/webservice/exception/ExceptionResource.class
+com/groferstest/webservice/user/UserNotFoundException.class
+com/groferstest/webservice/user/UserDao.class

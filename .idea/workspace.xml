@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidGradleBuildConfiguration">
+    <option name="SYNC_PROJECT_BEFORE_BUILD" value="true" />
+    <option name="COMMAND_LINE_OPTIONS" value="--stacktrace" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../api-testing" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kubric-backend-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../testimator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../zafira" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/GojekAssignment" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/api-testing" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/go-jek 2/Go-Jek-Assignment-Vegil" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/kubrik-api-test" value="PREVIEW" />
+        <entry key="$USER_HOME$/api-testing" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20515268" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
